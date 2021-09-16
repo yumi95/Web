@@ -1,3 +1,3 @@
 # Web
 
-# Know JavaScript and make other things besides todoList.
+Study JavaScript and make other things besides todoList.
